@@ -1,42 +1,35 @@
 <div align="center">
 
 <pre>
- 101000  10000    1100  01  00  00  10  00  01 10  01  00 01  00
- 001111 1110000 111110  01  01  01  10  01111  10 011  00 11  111
-   01   10   01 00      100111  00  11  1011   111000000  00  101
-   10   0111001 111101  10  00  010010  000010  001 0111  100111
-   11    00011    1000  10  01   0110   10  10  001  00    1100
+████████╗ ██████╗  ██████╗██╗  ██╗██╗   ██╗██╗  ██╗██╗    ██╗██╗   ██╗
+╚══██╔══╝██╔═══██╗██╔════╝██║  ██║██║   ██║██║ ██╔╝██║    ██║██║   ██║
+   ██║   ██║   ██║██║     ███████║██║   ██║█████╔╝ ██║ █╗ ██║██║   ██║
+   ██║   ██║   ██║██║     ██╔══██║██║   ██║██╔═██╗ ██║███╗██║██║   ██║
+   ██║   ╚██████╔╝╚██████╗██║  ██║╚██████╔╝██║  ██╗╚███╔███╔╝╚██████╔╝
+   ╚═╝    ╚═════╝  ╚═════╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝ ╚══╝╚══╝  ╚═════╝
 
-     110    0    00   00   0    01  010010  0111011  01   111101
-  11011010 011   111 110  100 0100 1110100 01110111  010 0100011
-  010      000  0010 110  001011   1011        001   101 1001
- 010       011011010 110  11011    1000010    111    101 1000010
-  011      110   100 111  1011001  000      0001     101 100
-  00101000 011   101 101  000 0010 1101000 111111001 100 1110011
-     011    1    01   10   1    10  001000  0010100  10   001001
+ ██████╗██╗  ██╗██╗██╗  ██╗███████╗███████╗██╗███████╗
+██╔════╝██║  ██║██║██║ ██╔╝██╔════╝╚══███╔╝██║██╔════╝
+██║     ███████║██║█████╔╝ █████╗    ███╔╝ ██║█████╗
+██║     ██╔══██║██║██╔═██╗ ██╔══╝   ███╔╝  ██║██╔══╝
+╚██████╗██║  ██║██║██║  ██╗███████╗███████╗██║███████╗
+ ╚═════╝╚═╝  ╚═╝╚═╝╚═╝  ╚═╝╚══════╝╚══════╝╚═╝╚══════╝
 </pre>
 
-<pre>
-01 &gt;&gt; BACKEND ENGINEER // FINTECH // MACHINE LEARNING &lt;&lt; 10
-</pre>
+<a href="https://github.com/Praiztl">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00E5FF&center=true&vCenter=true&width=760&height=45&lines=Backend+Engineer+%40+Zest+Payments+%28Stanbic+IBTC%29;Payment+infrastructure+with+Java+%26+Spring+Boot;Machine+Learning+%2C+Data+Science+%26+AI+Governance;Open+source+contributor+%40+Apache+Fineract+%26+Spring" alt="Tochukwu Chikezie" />
+</a>
 
-<pre>
-praiztl@github:~$ whoami
-Tochukwu Chikezie :: Backend Engineer, Fintech
+<p>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white" />
+<img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square&logo=scikitlearn&logoColor=white" />
+</p>
 
-praiztl@github:~$ cat stack.txt
-Java · Spring Boot · Python · Azure DevOps · MERN
-
-praiztl@github:~$ cat affiliations.txt
-Zest Payments (Stanbic IBTC) · Reachverse · Lyseis Labs
-
-praiztl@github:~$ ./status --now
-[ OK ] building payment infrastructure
-[ OK ] contributing to Apache Fineract &amp; Spring
-</pre>
-
-<img src="https://komarev.com/ghpvc/?username=Praiztl&label=profile+hits&color=0ea5e9&style=flat-square" alt="Profile views" />
-<a href="https://github.com/Praiztl/oss-contributions"><img src="https://img.shields.io/badge/open__source-log-1e3a8a?style=flat-square&logo=github" alt="Open source log" /></a>
+<img src="https://komarev.com/ghpvc/?username=Praiztl&label=profile+hits&color=00e5ff&style=flat-square" alt="Profile views" />
+<a href="https://github.com/Praiztl/oss-contributions"><img src="https://img.shields.io/badge/open__source-log-0a0a0a?style=flat-square&logo=github" alt="Open source log" /></a>
 
 </div>
 
