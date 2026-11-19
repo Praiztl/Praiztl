@@ -1,15 +1,42 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:0ea5e9&height=190&section=header&text=Tochukwu%20Chikezie&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Backend%20Engineer%20%E2%80%A2%20Fintech%20%E2%80%A2%20Machine%20Learning&descSize=17&descAlignY=58" alt="Tochukwu Chikezie" width="100%" />
+<pre>
+ 101000  10000    1100  01  00  00  10  00  01 10  01  00 01  00
+ 001111 1110000 111110  01  01  01  10  01111  10 011  00 11  111
+   01   10   01 00      100111  00  11  1011   111000000  00  101
+   10   0111001 111101  10  00  010010  000010  001 0111  100111
+   11    00011    1000  10  01   0110   10  10  001  00    1100
 
-<a href="https://github.com/Praiztl">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3200&pause=900&color=0EA5E9&center=true&vCenter=true&width=620&lines=Building+payment+infrastructure+with+Java+%26+Spring+Boot;Co-founder+%40+Reachverse+%E2%80%A2+Lagos;ML%2C+data+science+and+AI+governance;Contributing+to+Apache+Fineract+%26+Spring" alt="Typing intro" />
-</a>
+     110    0    00   00   0    01  010010  0111011  01   111101
+  11011010 011   111 110  100 0100 1110100 01110111  010 0100011
+  010      000  0010 110  001011   1011        001   101 1001
+ 010       011011010 110  11011    1000010    111    101 1000010
+  011      110   100 111  1011001  000      0001     101 100
+  00101000 011   101 101  000 0010 1101000 111111001 100 1110011
+     011    1    01   10   1    10  001000  0010100  10   001001
+</pre>
 
-<br/>
+<pre>
+01 &gt;&gt; BACKEND ENGINEER // FINTECH // MACHINE LEARNING &lt;&lt; 10
+</pre>
 
-<img src="https://komarev.com/ghpvc/?username=Praiztl&label=Profile%20views&color=0ea5e9&style=flat-square" alt="Profile views" />
-<a href="https://github.com/Praiztl/oss-contributions"><img src="https://img.shields.io/badge/Open%20source-log-1e3a8a?style=flat-square&logo=github" alt="Open source log" /></a>
+<pre>
+praiztl@github:~$ whoami
+Tochukwu Chikezie :: Backend Engineer, Fintech
+
+praiztl@github:~$ cat stack.txt
+Java · Spring Boot · Python · Azure DevOps · MERN
+
+praiztl@github:~$ cat affiliations.txt
+Zest Payments (Stanbic IBTC) · Reachverse · Lyseis Labs
+
+praiztl@github:~$ ./status --now
+[ OK ] building payment infrastructure
+[ OK ] contributing to Apache Fineract &amp; Spring
+</pre>
+
+<img src="https://komarev.com/ghpvc/?username=Praiztl&label=profile+hits&color=0ea5e9&style=flat-square" alt="Profile views" />
+<a href="https://github.com/Praiztl/oss-contributions"><img src="https://img.shields.io/badge/open__source-log-1e3a8a?style=flat-square&logo=github" alt="Open source log" /></a>
 
 </div>
 
