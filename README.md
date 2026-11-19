@@ -21,7 +21,7 @@
 - 🚀 **Co-founder of [Reachverse](https://reachsolutionslimited.com)**, a Lagos product studio for software, data and growth
 - 🧱 Building infrastructure with **[Lýseis Labs](https://lyseis.io)**
 - 🧠 Backend engineering, data science and machine learning, with certifications in **AI Governance** and **Data Governance**
-- 🎓 First Class B.Sc. Computer Science (Babcock University) · MIM in progress (Ahmadu Bello University) · Guest Lecturer, Pan-Atlantic University
+- 🎓 First Class B.Sc. Computer Science (Babcock University) · MIM in progress (Ahmadu Bello University) · Guest Speaker, Pan-Atlantic University
 - 🌍 Currently contributing to **[Apache Fineract](https://github.com/apache/fineract)**, the open source core banking platform
 
 > 🔒 Most of my day-to-day engineering lives in private organization repositories, so this profile is mainly where my side projects and experiments end up.
