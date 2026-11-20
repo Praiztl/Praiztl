@@ -91,6 +91,8 @@
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Praiztl&hide_border=true&theme=tokyo-night&area=true" alt="Contribution graph" />
 
+<img src="https://github-profile-trophy.vercel.app/?username=Praiztl&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub trophies" />
+
 </div>
 
 ---
