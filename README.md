@@ -86,14 +86,14 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Praiztl&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praiztl&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" alt="Top languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Praiztl&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&rank_icon=github&cb=20261127" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praiztl&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&cb=20261127" alt="Top languages" />
 
-<img src="https://streak-stats.demolab.com?user=Praiztl&hide_border=true&theme=tokyonight" alt="Contribution streak" />
+<img src="https://streak-stats.demolab.com?user=Praiztl&hide_border=true&theme=tokyonight&cb=20261127" alt="Contribution streak" />
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Praiztl&hide_border=true&theme=tokyo-night&area=true" alt="Contribution graph" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Praiztl&hide_border=true&theme=tokyo-night&area=true&cb=20261127" alt="Contribution graph" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=Praiztl&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=Praiztl&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7&cb=20261127" alt="GitHub trophies" />
 
 </div>
 
